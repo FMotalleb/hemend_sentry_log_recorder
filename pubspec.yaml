@@ -1,6 +1,7 @@
 name: hemend_sentry_log_recorder
-description: A Very Good Project created by Very Good CLI.
+description: An extension for Hemend Logger. implements Sentry Log Recorder
 version: 0.1.0+1
+repository: https://github.com/FMotalleb/hemend_sentry_log_recorder
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
