@@ -1,6 +1,6 @@
 name: hemend_sentry_log_recorder
 description: An extension for Hemend Logger. implements Sentry Log Recorder
-version: 0.1.0+1
+version: 0.1.0+2
 repository: https://github.com/FMotalleb/hemend_sentry_log_recorder
 
 environment:
