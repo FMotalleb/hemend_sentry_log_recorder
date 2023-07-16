@@ -1,10 +1,10 @@
 import 'dart:async';
 
+// ignore: implementation_imports
 import 'package:hemend_async_log_recorder/src/contracts/log_sink.dart';
 import 'package:hemend_logger/hemend_logger.dart';
+import 'package:hemend_sentry_log_recorder/src/mapper.dart';
 import 'package:sentry/sentry.dart';
-
-import 'mapper.dart';
 
 /// {@template hemend_sentry_log_recorder}
 /// A Very Good Project created by Very Good CLI.
