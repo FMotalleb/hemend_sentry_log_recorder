@@ -1,0 +1,16 @@
+name: hemend_sentry_log_recorder
+description: A Very Good Project created by Very Good CLI.
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  mocktail: ^0.3.0
+  test: ^1.19.2
+  very_good_analysis: ^5.0.0
+
+dependencies:
+  hemend_async_log_recorder: ">=0.0.0 <1.0.0"
+  hemend_logger: ">=0.0.0 <1.0.0"
+  sentry: ">=7.0.0 <8.0.0"
